@@ -1,4 +1,4 @@
-/// Importar módulo 'readline' para ler entradas do terminal
+// Importar módulo 'readline' para ler entradas do terminal
 const readline = require('readline');
 
 // Configurar interface de leitura
