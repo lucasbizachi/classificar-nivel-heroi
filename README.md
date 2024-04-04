@@ -45,3 +45,5 @@ Fechamento da interface de leitura: Finalmente, a interface de leitura é fechad
 Este código pode ser utilizado para classificar o nível de um herói com base em sua experiência (XP) inserida pelo usuário.
 
 Fiz duas soluções para esse desafio:
+![imagem01](https://github.com/lucasbizachi/classificar-nivel-heroi/assets/101759223/91f1f3cd-99a1-4934-b8b1-b4feb0679dcd)
+![imagem02](https://github.com/lucasbizachi/classificar-nivel-heroi/assets/101759223/74dcd08c-6c5c-4ed3-bb78-f2eafbfcc184)
